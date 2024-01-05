@@ -2,12 +2,11 @@ import cv2 as cv
 
 # Reading images: 
 
-'''
 img = cv.imread("Photos/cat_large.jpg")
 cv.imshow("Cat", img)
 
 cv.waitKey(0)
-'''
+
 
 
 # Reading videos:
