@@ -20,4 +20,3 @@ cv.imshow("Resized Image", resized_img2)
 
 cv.waitKey(0)
 cv.destroyAllWindows()
-
